@@ -270,18 +270,18 @@ form input, form select, form textarea {
 }
 
 
-form div:nth-of-type(7) label, form div:nth-of-type(7) input {
+form div:nth-of-type(6) label, form div:nth-of-type(6) input {
     display: inline-block;
 }
 
-form div:nth-of-type(7) label {
+form div:nth-of-type(6) label {
     width: 80%;
 }
-form div:nth-of-type(7) input {
+form div:nth-of-type(6) input {
     width: 10%;
 }
 
-form div:nth-of-type(8) input {
+form div:nth-of-type(7) input {
     background-color: rgba(205, 39, 176, 0.4);
     border-bottom: none;
     text-transform: uppercase;
